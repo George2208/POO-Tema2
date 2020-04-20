@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1587424873 source:c:\users\george\desktop\poo 2\main.cpp
+	"Persoana.h"
+	"Abonat.h"
+	"Abonat_Skype.h"
+	"Abonat_Skype_Romania.h"
+	"Abonat_Skype_Extern.h"
+	"Agenda.h"
+
+1587396897 source:c:\users\george\desktop\poo 2\src\abonat.cpp
+	"Abonat.h"
+
+1587396867 c:\users\george\desktop\poo 2\include\abonat.h
+	"Persoana.h"
+
+1587397026 source:c:\users\george\desktop\poo 2\src\abonat_skype.cpp
+	"Abonat_Skype.h"
+
+1587420999 c:\users\george\desktop\poo 2\include\abonat_skype.h
+	"Abonat.h"
+
+1587397177 source:c:\users\george\desktop\poo 2\src\abonat_skype_extern.cpp
+	"Abonat_Skype_Extern.h"
+
+1587397119 c:\users\george\desktop\poo 2\include\abonat_skype_extern.h
+	"Abonat_Skype.h"
+
+1587420999 source:c:\users\george\desktop\poo 2\src\abonat_skype_romania.cpp
+	"Abonat_Skype_Romania.h"
+
+1587397119 c:\users\george\desktop\poo 2\include\abonat_skype_romania.h
+	"Abonat_Skype.h"
+
+1587396838 source:c:\users\george\desktop\poo 2\src\persoana.cpp
+	"Persoana.h"
+
+1587397212 c:\users\george\desktop\poo 2\include\persoana.h
+	<iostream>
+	<string>
+
+1587424873 source:c:\users\george\desktop\poo 2\src\agenda.cpp
+	"Agenda.h"
+
+1587395439 c:\users\george\desktop\poo 2\include\agenda.h
+	<vector>
+	"Abonat.h"
+
+1586955770 source:c:\users\george\desktop\poo2\main.cpp
+	"Persoana.h"
+	"Abonat.h"
+	"Abonat_Skype.h"
+	"Abonat_Skype_Romania.h"
+	"Abonat_Skype_Extern.h"
+
+1586803476 c:\users\george\desktop\poo2\include\persoana.h
+	<iostream>
+	<string>
+
+1587121457 c:\users\george\desktop\poo2\include\abonat.h
+	"Persoana.h"
+
+1586803662 c:\users\george\desktop\poo2\include\abonat_skype.h
+	"Abonat.h"
+
+1586803808 c:\users\george\desktop\poo2\include\abonat_skype_romania.h
+	"Abonat_Skype.h"
+
+1586803808 c:\users\george\desktop\poo2\include\abonat_skype_extern.h
+	"Abonat_Skype.h"
+
+1586803662 source:c:\users\george\desktop\poo2\src\abonat_skype.cpp
+	"Abonat_Skype.h"
+
+1586803808 source:c:\users\george\desktop\poo2\src\abonat_skype_extern.cpp
+	"Abonat_Skype_Extern.h"
+
+1586803808 source:c:\users\george\desktop\poo2\src\abonat_skype_romania.cpp
+	"Abonat_Skype_Romania.h"
+
+1586631186 source:c:\users\george\desktop\poo2\src\agenda.cpp
+	"Agenda.h"
+
+1586631186 c:\users\george\desktop\poo2\include\agenda.h
+
+1586803476 source:c:\users\george\desktop\poo2\src\persoana.cpp
+	"Persoana.h"
+
